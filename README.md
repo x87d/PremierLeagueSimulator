@@ -12,8 +12,6 @@ This program simulates Premier League seasons using historical performance data.
 2. Run simulation: `python premier_league_sim.py`
 3. Enter number of simulations when prompted
 
-## Data Source
-
 ## Dataset
 The dataset is from kaggle, it covers historical Premier League tables from 1993-2024
 
